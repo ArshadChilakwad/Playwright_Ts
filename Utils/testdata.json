@@ -1,0 +1,13 @@
+{
+	"url": "https://www.saucedemo.com/",
+	"username": "standard_user",
+	"password": "secret_sauce",
+	"productName": "backpack",
+	"product2Name": "bike-light",
+	"cartTitle": "Your Cart",
+	"information": {
+		"firstName": "Tony",
+		"lastName": "Stark",
+		"postalCode": "56789"
+	}
+}
